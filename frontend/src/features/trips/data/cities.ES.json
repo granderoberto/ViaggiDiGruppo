@@ -1,0 +1,12 @@
+[
+  { "name": "Madrid", "lat": 40.4168, "lng": -3.7038 },
+  { "name": "Barcellona", "lat": 41.3851, "lng": 2.1734 },
+  { "name": "Valencia", "lat": 39.4699, "lng": -0.3763 },
+  { "name": "Siviglia", "lat": 37.3891, "lng": -5.9845 },
+  { "name": "Malaga", "lat": 36.7213, "lng": -4.4214 },
+  { "name": "Bilbao", "lat": 43.263, "lng": -2.935 },
+  { "name": "Granada", "lat": 37.1773, "lng": -3.5986 },
+  { "name": "Alicante", "lat": 38.3452, "lng": -0.481 },
+  { "name": "Cordova", "lat": 37.8882, "lng": -4.7794 },
+  { "name": "Saragozza", "lat": 41.6488, "lng": -0.8891 }
+]
